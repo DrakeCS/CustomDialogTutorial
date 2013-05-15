@@ -1,4 +1,4 @@
 CustomEditTextDialog
 ====================
 
-A brief example project to demonstrate custom Dialogs and their use as custom overlays while 'loading' resources.
+A brief example project to demonstrate using Dialogs to get and use textual information from a user.
